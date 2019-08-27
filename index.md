@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 求伤者  你是不是傻???
 
 You can use the [editor on GitHub](https://github.com/xupengju/mypages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
